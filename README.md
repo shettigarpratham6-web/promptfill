@@ -11,7 +11,7 @@ PromptFill is a lightweight, zero-dependency Python utility designed for AI engi
 ## Live Links
 
 - **GitHub Repository:** [PromptFill on GitHub](https://github.com/YOUR_USERNAME/promptfill)
-- **PyPI Package:** [promptfill-pratham on PyPI](https://pypi.org/project/promptfill-pratham/)
+- **PyPI Package:** [promptfill on PyPI](https://pypi.org/project/promptfill/)
 
 ---
 
