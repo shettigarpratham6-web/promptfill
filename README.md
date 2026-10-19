@@ -1,8 +1,8 @@
 
 # PromptFill
 
-[![PyPI version](https://img.shields.io/pypi/v/promptfill-pratham.svg)](https://pypi.org/project/promptfill-pratham/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PyPI version](https://img.shields.io/pypi/v/promptfill.svg)](https://pypi.org/project/promptfill/)
+
 
 PromptFill is a lightweight, zero-dependency Python utility designed for AI engineers. It helps you manage prompt templates separately from your application code by loading and formatting prompts from external Markdown and text files.
 
@@ -10,7 +10,7 @@ PromptFill is a lightweight, zero-dependency Python utility designed for AI engi
 
 ## Live Links
 
-- **GitHub Repository:** [PromptFill on GitHub](https://github.com/YOUR_USERNAME/promptfill)
+- **GitHub Repository:** [PromptFill on GitHub](https://github.com/shettigarpratham6-web/promptfill)
 - **PyPI Package:** [promptfill on PyPI](https://pypi.org/project/promptfill/)
 
 ---
@@ -417,13 +417,7 @@ Please test new functionality and make sure existing behavior continues to work.
 
 ---
 
-## License
 
-This project is licensed under the MIT License.
-
-See the [LICENSE](LICENSE) file for the complete license text.
-
----
 
 ## Support the Project
 

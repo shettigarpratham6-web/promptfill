@@ -4,7 +4,7 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "promptfill"
-version = "0.1.0"
+version = "0.1.3"
 description = "A simple, lightweight prompt loader and formatter for AI applications."
 readme = "README.md"
 authors = [
