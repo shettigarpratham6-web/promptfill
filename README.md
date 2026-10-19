@@ -1,12 +1,20 @@
+
 # PromptFill
 
-PromptFill is a lightweight, zero-dependency Python utility that helps AI engineers manage prompt templates separately from their application code.
+[![PyPI version](https://img.shields.io/pypi/v/promptfill-pratham.svg)](https://pypi.org/project/promptfill-pratham/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-It loads prompts from external files such as `.md` and `.txt`, replaces placeholders with the values you provide, and returns a formatted string that is ready to use in your LLM applications.
-
-Instead of writing long prompts directly inside Python files, you can store them in separate files that are easier to read, maintain, and reuse.
+PromptFill is a lightweight, zero-dependency Python utility designed for AI engineers. It helps you manage prompt templates separately from your application code by loading and formatting prompts from external Markdown and text files.
 
 ---
+
+## Live Links
+
+- **GitHub Repository:** [PromptFill on GitHub](https://github.com/YOUR_USERNAME/promptfill)
+- **PyPI Package:** [promptfill-pratham on PyPI](https://pypi.org/project/promptfill-pratham/)
+
+---
+
 
 ## Why PromptFill?
 
