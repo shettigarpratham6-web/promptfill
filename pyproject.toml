@@ -1,0 +1,19 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "promptfill"
+version = "0.1.0"
+description = "A simple, lightweight prompt loader and formatter for AI applications."
+readme = "README.md"
+authors = [
+    { name = "Pratham Shettigar" }
+]
+keywords = ["ai", "llm", "prompts", "template"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+requires-python = ">=3.8"
